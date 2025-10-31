@@ -132,10 +132,3 @@ If you see immediate explosions on the receiving side, attach Serial logs for th
 This project is provided as-is. Add your preferred license (MIT, Apache-2.0, etc.) by creating a `LICENSE` file.
 
 ---
-
-If you'd like, I can:
-
-- Add a small section with suggested `platformio.ini` or `arduino-cli` exact FQBNs for common ESP32 boards.
-- Make MAC printing optional via a `#define PRINT_MACS 1` toggle and patch the sketches accordingly.
-
-Tell me which of those you'd prefer and I'll add it.
