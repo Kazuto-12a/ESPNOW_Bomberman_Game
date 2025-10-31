@@ -129,6 +129,6 @@ If you see immediate explosions on the receiving side, attach Serial logs for th
 
 ## License
 
-This project is provided as-is. Add your preferred license (MIT, Apache-2.0, etc.) by creating a `LICENSE` file.
+This project is provided as-is.
 
 ---
